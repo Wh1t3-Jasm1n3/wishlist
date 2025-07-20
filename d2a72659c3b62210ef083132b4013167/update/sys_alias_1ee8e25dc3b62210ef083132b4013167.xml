@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_1472308_wishlist.WishList</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>WishList</name>
+        <parent/>
+        <retry_policy/>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 23:13:31</sys_created_on>
+        <sys_id>1ee8e25dc3b62210ef083132b4013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1472308_wishlist.WishList</sys_name>
+        <sys_package display_value="WishList" source="x_1472308_wishlist">d2a72659c3b62210ef083132b4013167</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">d2a72659c3b62210ef083132b4013167</sys_scope>
+        <sys_update_name>sys_alias_1ee8e25dc3b62210ef083132b4013167</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 23:13:31</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
